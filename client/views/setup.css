@@ -1,0 +1,22 @@
+.head {
+    vertical-align: text-top;
+    color: white;
+    text-align: center;
+    font-size: 120px;
+
+
+}
+.textlists{
+    color: lightgoldenrodyellow;
+    position: relative;
+    text-align: center;
+    line-height: 2.0;
+    font-size: 15px;
+}
+.mainmenu{
+    color:white;
+    text-align: center;
+    font-size: 15px;
+    line-height: 2.0;
+
+}

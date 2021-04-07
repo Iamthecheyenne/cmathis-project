@@ -1,0 +1,21 @@
+.topten {
+
+    position: relative;
+    text-align: center;
+    color: lightgoldenrodyellow;
+
+    font-size: 15px;
+}
+.head {
+    vertical-align: text-top;
+    color: white;
+    text-align: center;
+    font-size: 120px;
+
+
+}
+.tenlist{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
