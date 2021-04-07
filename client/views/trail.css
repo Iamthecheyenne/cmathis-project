@@ -1,0 +1,15 @@
+.head {
+    vertical-align: text-top;
+    color: white;
+    text-align: center;
+    font-size: 120px;
+
+
+}
+.trailtext{
+    color: white;
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    font-size: 18px;
+}
