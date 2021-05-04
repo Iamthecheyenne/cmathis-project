@@ -10,3 +10,6 @@ var terrainList = [
     new terrain("Mountains", "Mountains.jpeg");
 
 ]
+exports.getAllTerrains = function() {
+    return allTerrains;
+}
