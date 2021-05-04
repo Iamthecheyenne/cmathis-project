@@ -4,6 +4,9 @@ function terrain(name,imageUrl){
 }
 
 var terrainList = [
-    new terrain("Ocean", "Ocean.jpeg")
-    new terrain("Desert", "")
+    new terrain("Forest", "Ocean.jpeg");
+    new terrain("Desert", "Desert.jpeg");
+    new terrain("Valley", "Valley.jpeg");
+    new terrain("Mountains", "Mountains.jpeg");
+
 ]
